@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Model\Model\bin\Debug\netstandard2.0\DBModel.deps.json
+C:\Users\Kevin\source\repos\Model\Model\bin\Debug\netstandard2.0\DBModel.dll
+C:\Users\Kevin\source\repos\Model\Model\bin\Debug\netstandard2.0\DBModel.pdb
+C:\Users\Kevin\source\repos\Model\Model\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.dll
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.pdb
+C:\Users\Kevin\source\repos\Model\Model\obj\Debug\netstandard2.0\DBModel.csprojAssemblyReference.cache

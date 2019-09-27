@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DBModel">
+      <HintPath>..\..\..\..\Documents\DBModel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2019\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
